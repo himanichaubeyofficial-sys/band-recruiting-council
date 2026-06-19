@@ -1,0 +1,10 @@
+[project]
+name = "recruiting-agents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "band-sdk[anthropic,google-adk]>=1.0.0",
+    "python-dotenv>=1.2.2",
+]

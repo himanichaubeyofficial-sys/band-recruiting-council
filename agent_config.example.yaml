@@ -1,0 +1,13 @@
+agents:
+  skeptic:
+    agent_id: "your_skeptic_agent_id"
+    api_key: "your_skeptic_band_api_key"
+  investigator:
+    agent_id: "your_investigator_agent_id"
+    api_key: "your_investigator_band_api_key"
+  devils_advocate:
+    agent_id: "your_da_agent_id"
+    api_key: "your_da_band_api_key"
+  recruiter:
+    agent_id: "your_recruiter_agent_id"
+    api_key: "your_recruiter_band_api_key"
