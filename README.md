@@ -54,7 +54,7 @@ Most AI recruiting tools give a single confident answer. This system surfaces di
 
 ## Demo
 
-[Demo video link — to be added]
+https://drive.google.com/file/d/1vm7Dq3jkWU9X6Y8Z_KwQRLa-9ai4CtC-/view?usp=drive_link
 
 ## Built For
 
